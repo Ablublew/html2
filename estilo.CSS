@@ -1,0 +1,22 @@
+.pizzaria {
+    background-color: rgb(247, 247, 145);
+}   
+ .titulo {
+    
+    color: #ffffff;
+    margin-top: 20px;   
+    text-align: center;
+
+} 
+.sabores {
+    background-color: #ffff00;
+    color: #ff0000;
+    text-align: center;
+
+}   
+.paragrafo {
+    margin: 20px;
+    text-align: center;
+    font-size: 18px;
+
+}

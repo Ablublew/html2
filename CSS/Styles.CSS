@@ -1,0 +1,29 @@
+/* styles.css */
+.body{
+    background-color: #d5cff7
+}
+h2 {
+ padding: 10px;
+ border-radius: 5px;
+ margin-bottom: 10px;
+}
+.h1-colorido {
+ background-color: rgb(134, 177, 233);
+ color: rgb(100, 118, 197);
+}
+.hex-colorido {
+ background-color: #4b4bc4;
+ color: #ffffff;
+}
+.rgb-colorido {
+ background-color: rgb(98, 98, 218);
+ color: rgb(255, 255, 255);
+}
+.hsl-colorido {
+ background-color: hsl(240, 63%, 61%);
+ color: hsl(0, 0%, 100%);
+}
+.rgba-colorido {
+ background-color: rgba(102, 102, 226, 0.5);
+ color: white;
+}
